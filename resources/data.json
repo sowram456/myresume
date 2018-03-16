@@ -1,0 +1,22 @@
+{
+"basics":{
+"objective":"all are true"	
+},
+"education":[
+{
+"degree":"b.tech(computer science of engineering)",	
+"college":"klmcew",
+"data":["2015-2019","78%"]
+},
+{
+"degree":"intermediate",
+"college":"rayalaseema",
+"data":["2013-2015","81%"]
+},
+{
+"degree":"ssc",
+"school":"s.v.v.m",
+"data":["2012-2013","90%"]
+}
+]
+}
